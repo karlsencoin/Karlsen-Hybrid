@@ -195,7 +195,7 @@ Click **More info → Run anyway**. The binary is not code-signed.
 🔗 Website: [karlsencoin.org](https://karlsencoin.org)  
 📊 Explorer: [explorer.karlsencoin.org](https://explorer.karlsencoin.org)  
 💬 Discord: [discord.gg/QyrvshRBJV](https://discord.gg/QyrvshRBJV)  
-📢 Telegram: [t.me/KarlsenTaskForce](https://t.me/KarlsenTaskForce)  
+📢 Telegram: [t.me/KarlsenCoin](https://t.me/KarlsenCoin)  
 🪙 Buy/sell $KLS: [NonKYC.io — KLS/USDT](https://nonkyc.io)
 
 ---
